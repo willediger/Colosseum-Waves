@@ -1,8 +1,8 @@
 # Colosseum Waves
 
-This plugin captures player & NPC locations for wave spawns & reinforcements in Fortis Colosseum, and
-generates [Colosseum LoS](https://los.colosim.com/) links for planning and analysis. You can also generate a "Current
-LoS" link to capture the current pillar stack.
+This plugin captures player & NPC locations for wave spawns & reinforcements in Fortis Colosseum. It generates shareable links to [https://los.colosim.com/](https://los.colosim.com/) for planning and analysis, including support for "Current LoS" snapshots of the current pillar stack.
+
+Supports uncharged manticores & Mantimayhem 3.
 
 ## Using the plugin
 
